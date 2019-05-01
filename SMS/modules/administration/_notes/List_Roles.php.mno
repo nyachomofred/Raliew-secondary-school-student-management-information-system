@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsListRoles" value="name:Role_Id;datatype:int,name:Role_Name;datatype:string" />
+</info>

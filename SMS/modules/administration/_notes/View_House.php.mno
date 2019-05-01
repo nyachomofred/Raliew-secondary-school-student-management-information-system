@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_viewHouse" value="name:House_ID;datatype:int,name:House_Name;datatype:string,name:Bed_Capacity;datatype:int" />
+	<infoitem key="UD_rsCount_House" value="name:COUNT(*);datatype:int" />
+</info>

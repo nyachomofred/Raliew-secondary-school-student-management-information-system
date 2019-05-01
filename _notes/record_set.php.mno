@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_list_class" value="name:Class_Id;datatype:int,name:Form;datatype:int,name:Name;datatype:string,name:Capacity;datatype:int" />
+</info>

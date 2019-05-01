@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsFrm_Three_MarksSheet" value="name:Admission_No;datatype:int,name:Name;datatype:string,name:101;datatype:int,name:102;datatype:int,name:121;datatype:int,name:231;datatype:int,name:232;datatype:int,name:233;datatype:int,name:311;datatype:int,name:312;datatype:int,name:313;datatype:int,name:443;datatype:int,name:565;datatype:int" />
+</info>

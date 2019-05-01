@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsView_Exam_Type" value="name:Id;datatype:int,name:Exam_Type;datatype:string,name:Marks_Allocation;datatype:int" />
+</info>

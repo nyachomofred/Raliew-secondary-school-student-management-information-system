@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_View_Class" value="name:Class_Id;datatype:int,name:Class;datatype:string,name:Capacity;datatype:int" />
+	<infoitem key="UD_rsNum_Classes" value="name:COUNT(*);datatype:int" />
+</info>

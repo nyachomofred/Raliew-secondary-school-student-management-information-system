@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_List_All_Students" value="name:Admission_No;datatype:int,name:First_Name;datatype:string,name:Middle_Name;datatype:string,name:Last_Name;datatype:string,name:DOB;datatype:string,name:Gender;datatype:string,name:Postal_Address;datatype:int,name:Postal_Code;datatype:int,name:Town;datatype:string,name:Form;datatype:string,name:Stream;datatype:string,name:House;datatype:string" />
+	<infoitem key="UD_Student_Count" value="name:COUNT( *);datatype:int" />
+</info>

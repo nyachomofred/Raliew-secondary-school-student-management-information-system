@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsViewPayment_Transaction" value="name:Receipt_No;datatype:int,name:Admission_No;datatype:int,name:Amount_Paid;datatype:real,name:Date_Paid;datatype:timestamp,name:Processed_By;datatype:string" />
+</info>

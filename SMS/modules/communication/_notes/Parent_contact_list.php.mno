@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsContactList" value="name:First_Name;datatype:string,name:Last_Name;datatype:string,name:Phone_Number;datatype:string,name:Email;datatype:string" />
+</info>

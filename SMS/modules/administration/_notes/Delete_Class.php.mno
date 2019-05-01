@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Delete_Class" value="name:Class_Id;datatype:int,name:Form;datatype:int,name:Name;datatype:string,name:Capacity;datatype:int" />
+	<infoitem key="UD_rs_delete_class" value="name:Class_Id;datatype:int,name:Form;datatype:int,name:Name;datatype:string,name:Capacity;datatype:int" />
+	<infoitem key="UD_rs_delete" value="name:Class_Id;datatype:int,name:Form;datatype:int,name:Name;datatype:string,name:Capacity;datatype:int" />
+</info>

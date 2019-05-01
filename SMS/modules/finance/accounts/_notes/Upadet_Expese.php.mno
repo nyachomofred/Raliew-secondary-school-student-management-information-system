@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsUpdate_Expese" value="name:Expense_ID;datatype:int,name:Expense_Type;datatype:string,name:Expense_Amount;datatype:real,name:Expense_Date;datatype:timestamp,name:Specfic_Description;datatype:blob,name:Approved_By;datatype:string" />
+</info>

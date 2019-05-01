@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sampe_form</title>
+<style type="text/css">
+input[type="submit"], input[type="reset"] {
+	color: #CCC;
+	background-color: #333;
+	background-repeat: no-repeat;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+</style>
+</head>
+
+<body><form action="index.php" method="get" name="frm_contact">
+  <table width="500" border="0" cellpadding="5">
+    <caption>
+      Contact Us
+    </caption>
+    <tr>
+      <td align="right"><label for="txtName">Name: </label></td>
+      <td><input type="text" name="txtName" id="txtName" /></td>
+    </tr>
+    <tr>
+      <td align="right"><label for="txtEmail">Email :</label></td>
+      <td><input type="text" name="txtEmail" id="txtEmail" /></td>
+    </tr>
+    <tr>
+      <td align="right"><label for="txtComments">Comments :</label></td>
+      <td><textarea name="txtComments" id="txtComments" cols="45" rows="5"></textarea></td>
+    </tr>
+    <tr>
+      <td align="right">&nbsp;</td>
+      <td><p>
+        <label>
+          <input type="checkbox" name="chkGender" value="Male" id="chkGender_0" />
+          Male</label>
+        <br />
+        <label>
+          <input type="checkbox" name="chkGender" value="Female" id="chkGender_1" />
+          Female</label>
+        <br />
+      </p></td>
+    </tr>
+    <tr>
+      <td align="right">&nbsp;</td>
+      <td><input type="reset" name="btnReset" id="btnReset" value="Reset" />
+      <input type="submit" name="btnSubmit" id="btnSubmit" value="Submit" /></td>
+    </tr>
+  </table>
+</form>
+</body>
+</html>

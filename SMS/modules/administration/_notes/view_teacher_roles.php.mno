@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsView_Teacher_Roles" value="name:Staff_Id;datatype:int,name:First_Name;datatype:string,name:Last_Name;datatype:string,name:Role_Name;datatype:string" />
+</info>

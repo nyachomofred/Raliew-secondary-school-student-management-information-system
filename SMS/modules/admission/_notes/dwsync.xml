@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="Add_Student.php" server="C:/xampp/htdocs/" local="131032793112504850" remote="131032793110000000" />
+<file name="Guardian_Details.php" server="C:/xampp/htdocs/" local="131038214320204571" remote="131038214320000000" />
+<file name="List_All_Student.php" server="C:/xampp/htdocs/" local="131033664293953340" remote="131033664290000000" />
+<file name="Delete_Student.php" server="C:/xampp/htdocs/" local="131028512061667388" remote="131028512060000000" />
+<file name="List_One_Student.php" server="C:/xampp/htdocs/" local="131033701877846657" remote="131033701870000000" />
+<file name="Update_Student.php" server="C:/xampp/htdocs/" local="131028531848592480" remote="131028531840000000" />
+<file name="add_teacher.php" server="C:/xampp/htdocs/" local="131032836712878220" remote="131032836710000000" />
+<file name="View_Teachers.php" server="C:/xampp/htdocs/" local="131038145051873111" remote="131038145050000000" />
+<file name="archive_teacher.php" server="C:/xampp/htdocs/" local="131032933628221281" remote="131032933620000000" />
+<file name="View_Archived_Teachers.php" server="C:/xampp/htdocs/" local="131033646516556531" remote="131033646510000000" />
+<file name="Delete_Teacher.php" server="C:/xampp/htdocs/" local="131032963613581880" remote="131032963610000000" />
+<file name="Archive_Student.php" server="C:/xampp/htdocs/" local="131033782773227477" remote="131033782770000000" />
+<file name="List_Archived_Students.php" server="C:/xampp/htdocs/" local="131033878559677081" remote="131033878550000000" />
+<file name="Add_Staff.php" server="C:/xampp/htdocs/" local="131036251501649056" remote="131036251500000000" />
+<file name="List_Staff.php" server="C:/xampp/htdocs/" local="131036270224381893" remote="131036270220000000" />
+<file name="List_Archived_Staff.php" server="C:/xampp/htdocs/" local="131039308464702328" remote="131039308460000000" />
+<file name="reactivate_student.php" server="C:/xampp/htdocs/" local="131033861699421326" remote="131033861690000000" />
+<file name="Archive_Staff.php" server="C:/xampp/htdocs/" local="131036269495691184" remote="131036269490000000" />
+<file name="Edit_Staff.php" server="C:/xampp/htdocs/" local="131036264998781064" remote="131036264990000000" />
+<file name="reactivate_teacher.php" server="C:/xampp/htdocs/" local="131032948895953450" remote="131032948890000000" />
+<file name="reactivateSatff.php" server="C:/xampp/htdocs/" local="131036278793061229" remote="131036278790000000" />
+<file name="search_archived_Student.php" server="C:/xampp/htdocs/" local="131033871636163790" remote="131033871630000000" />
+<file name="Search_Archived_Teacher.php" server="C:/xampp/htdocs/" local="131033649299335697" remote="131033649290000000" />
+<file name="Search_Teacher.php" server="C:/xampp/htdocs/" local="131033649596042668" remote="131033649590000000" />
+<file name="Update_Teacher.php" server="C:/xampp/htdocs/" local="131032875614060198" remote="131032875610000000" />
+</dwsync>

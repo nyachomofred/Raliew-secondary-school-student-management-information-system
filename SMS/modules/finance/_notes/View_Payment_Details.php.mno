@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsPaymentsDetails" value="name:Name;datatype:string,name:Form;datatype:int,name:Debit;datatype:real,name:Credit;datatype:real,name:Balance;datatype:real" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsList_ArchivedStaff" value="name:Staff_Id;datatype:int,name:First_Name;datatype:string,name:Last_Name;datatype:string,name:Gender;datatype:string,name:DOB;datatype:string,name:Phone_No;datatype:string,name:Email;datatype:string,name:Role;datatype:string" />
+	<infoitem key="UD_rsCount_ArchivedStaff" value="name:COUNT(*);datatype:int" />
+</info>
